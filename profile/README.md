@@ -2,8 +2,8 @@
 
 **Tecnologias, sistemas e equipamentos.**
 
-E-mail: biblioteca.suporte@pucrs.br
-Fone: (51) 3353.4371
+* E-mail: biblioteca.suporte@pucrs.br
+* Fone: (51) 3353.4371
 
 **Bibliotecários:**
 * Fernanda Becker Handke
