@@ -8,4 +8,3 @@
 **Bibliotecários:**
 * Fernanda Becker Handke
 * Paula Danielli Machado
-* Roger Craveiro Guilherme
